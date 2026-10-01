@@ -396,3 +396,9 @@ Add the names of all project members below.
 ## 📜 Academic Project
 
 This project was developed as part of a **Computer Networks academic project** to demonstrate graph-based routing, shortest-path algorithms, multi-hop communication, packet transmission, network simulation, and privacy-aware routing concepts.
+
+## 📈 Example Output
+
+![Simulation Output 1](screenshots/simulation-output1.png)
+
+![Simulation Output 2](screenshots/simulation-output2.png)
